@@ -1,0 +1,225 @@
+Breakfast_Hash
+None
+Breakfast
+8 36 15 423 1 1 No
+8
+1 None Zucchini
+3 Link Breakfast_Sausage
+0.25 None Onion
+1 Clove Garlic
+1 Tablespoon Coconut_Oil
+1 Tablespoon Fresh_Parsley
+0.25 Teaspoon Salt
+1 None Egg
+
+Cabbage_Stir_fry
+Beef
+Dinner
+10 93 33 1023 4 1 No
+11
+1.66 Pound Cabbage
+5 Ounce Butter
+1.33 Pound Ground_Beef
+1 Teaspoon Salt
+1 Teaspoon Onion_Powder
+0.25 Teaspoon Pepper
+1 Tablespoon White_Wine_Vinegar
+2 Clove Garlic
+3 None Scallion
+1 Tablespoon Ginger
+1 Tablespoon Sesame_Oil
+
+Cauliflower_Bacon_Soup
+None
+Dinner
+4 22.5 15 282 6 2 Yes
+8
+4 Cup Chicken_Broth
+1 Pound Cauliflower
+7 Ounce Cream_Cheese
+1 Tablespoon Dijon_Mustard
+4 Ounce Butter
+7 Slice Bacon
+1 Tablespoon Butter
+1 Teaspoon Paprika
+
+Cheesebugers
+Beef
+Dinner
+6 60 45 754 4 1 No
+15
+1.5 Pound Ground_Beef
+7 Ounce Cheddar_Cheese
+2 Teaspoon Garlic_Powder
+2 Teaspoon Onion_Powder
+2 Teaspoon Paprika
+2 Tablespoon Fresh_Oregano
+2 Ounce Butter
+1 None Tomato
+2 None Scallion
+1 Tablespoon Olive_Oil
+1 Tablespoon Cilantro
+4 Tablespoon Mayonnaise
+4 Tablespoon Dijon_Mustard
+0.5 Cup Dill_Pickle
+5 Ounce Lettuce
+
+Chicken_Lazone
+Chicken
+Dinner
+5 44 34 561 4 1 No
+10
+2 Teaspoon Paprika
+0.5 Teaspoon Garlic_Powder
+0.5 Teaspoon Onion_Powder
+0.5 Teaspoon Cayenne_Pepper
+0.5 Teaspoon Oregano
+0.5 Teaspoon Basil
+1.25 Pound Chicken_Tenderloin
+5 Tablespoon Butter
+1.25 Pound Zucchini
+1 Cup Heavy_Cream
+
+Chocolate_Shake
+None
+Lunch
+2 10 15 160 1 1 No
+1
+1 Bottle Atkins_Chocolate_Shake
+
+Chreamy_Tomato_Hamburger_Patties
+Beef
+Dinner
+10 78 43 928 4 1 No
+12
+1.5 Pound Ground_Beef
+1 None Egg
+3 Ounce Feta_Cheese
+1 Teaspoon Salt
+0.25 Teaspoon Pepper
+2 Ounce Fresh_Parsley
+1 Tablespoon Olive_Oil
+0.75 Cup Whipping_Cream
+1 Ounce Fresh_Parsley
+2 Tablespoon Tomato_Paste
+1.5 Pound Cabbage
+4.25 Ounce Butter
+
+Egg_Drop_Soup
+None
+Lunch
+3 23 15 289 1 1 No
+5
+1.5 Cups Chicken_Broth
+0.5 Cubes Chicken_Bouillon
+1 Tablespoon Bacon_Fat
+2 Large Eggs
+1 Teaspoon Chili_Garlic_Paste
+
+Jalapeno_Poppers
+None
+Lunch
+2 10 5 121 8 4 No
+7
+5 Ounce Cream_Cheese
+0.25 Cup Mozzarella_Cheese
+8 None Jalapeno
+0.25 Teaspoon Salt
+0.25 Teaspoon Pepper
+0.5 Teaspoon Mrs._Dash_Table_Blend
+8 Slice Bacon
+
+Pork_Chops
+Pork
+Dinner
+3 73 24 910 2 1 No
+6
+2 None Pork_Chops
+0.5 Pound Green_Beans
+3.5 Ounce Butter
+0.5 Tablespoon Parsley
+0.25 Tablespoon Garlic_Powder
+0.5 Tablespoon Lemon_Juice
+
+Sausage_Zucchini_Boats
+None
+Lunch
+6 6 24 536 4 1 No
+9
+2 Medium Zucchini
+1 Pound Ground_Sausage
+1 Cup Cheddar_Cheese
+1.5 None Onion
+1 Tablespoon Garlic
+1 Teaspoon Paprika
+1.5 Teaspoon Red_Pepper_Flakes
+1 Teaspoon Oregano
+1.5 Cup Chicken_Broth
+
+Scrambled_Eggs_with_Bacon
+None
+Breakfast
+1 31 17 300 1 1 No
+3
+2 None Egg
+2 Slice Bacon
+1 Ounce Butter
+
+Scrambled_Eggs_with_Sausage
+None
+Breakfast
+3 31 22 310 1 1 No
+3
+2 None Egg
+3 Link Breakfast_Sausage
+1 Ounce Butter
+
+Tuna_Lettuce_Wrap
+None
+Lunch
+2 24 23 321 2 1 No
+8
+2 None Boston_Lettuce_Leaves
+0.25 Ounce Fresh_Basil
+0.5 Teaspoon Garlic_Powder
+1 Teaspoon Lemon_Juice
+4 Tablespoon Mayonnaise
+1 Can Tuna
+1 Ounce Onion
+2 Tablespoon Parmesan_Cheese
+
+Taco_Casserole
+None
+Dinner
+4 17 18 242 8 2 Yes
+12
+1 Pound Ground_Turkey
+1 None Cauliflower
+1 None Jalapeno
+0.25 Cup Red_Pepper
+0.25 Cup Onion
+1 Teaspoon Cumin
+1 Teaspoon Parsley
+1 Teaspoon Turmeric
+1 Teaspoon Garlic
+1 Teaspoon Oregano
+1.5 Cup Cheddar_Cheese
+1 Cup Sour_Cream
+
+Zucchini_Alfredo
+Chicken
+Dinner
+10 52 44 684 4 1 No
+12
+2 Pounds Zucchini
+3 Tablespoon Butter
+8 Ounce Whipping_Cream
+0.75 Cup Parmesan_Cheese
+1 None Egg_Yolk
+1 Clove Garlic
+0.25 Teaspoon Salt
+0.125 Teaspoon Nutmeg
+0.125 Teaspoon Pepper
+6 Slices Bacon
+0.5 Pound Chicken
+0.5 None Onion
